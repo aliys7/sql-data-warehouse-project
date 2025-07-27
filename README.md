@@ -90,5 +90,5 @@ Hi there! </br> I am Ali Assuleiteen. I am an IT professional, and I love workin
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-**[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/ali-assuleiteen-7a6a64219)**
+**[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ali-assuleiteen-7a6a64219)**
 **[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=X&logoColor=white)]( https://twitter.com/ayas92 )**
